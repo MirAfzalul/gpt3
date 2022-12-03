@@ -1,6 +1,6 @@
-export{ default as blog} from './blog/blog';
-export{ default as feature} from './features/feature';
-export{ default as footer} from './footer/footer';
-export{ default as header} from './header/header';
-export{ default as possibility} from './possibility/possibility';
-export{ default as whatGPT3} from './whatGPT3/whatGPT3';
+export{ default as Blog} from './blog/Blog';
+export{ default as Feature} from './features/Feature';
+export{ default as Footer} from './footer/Footer';
+export{ default as Header} from './header/Header';
+export{ default as Possibility} from './possibility/Possibility';
+export{ default as WhatGPT3} from './whatGPT3/WhatGPT3';
